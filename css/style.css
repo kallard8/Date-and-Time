@@ -1,14 +1,19 @@
 /* Diagnostic */
 
+
 * {
-  outline: 1px dotted darkgray;
+  outline: 1px dotted rgb(255, 255, 255);
 }
 
 /* Layout  */
 main {
+  background-color: #090436;
+  font-family: 'Chillax', sans-serif;
+  font-size: xx-large;
+  color: #fffd7b;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  /* verrtical center   */
+  /* vertical center   */
   align-content: center;
   /*  extend to viewport height  */
   height: 100vh;
@@ -18,5 +23,7 @@ main time {
 /*  center content  */
   text-align: center;
 }
+
+
 
 
