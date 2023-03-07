@@ -8,3 +8,5 @@
 
 ## Citations
 * [Favicon Generator](https://favicon.io/)
+* [Font Share] (https://www.fontshare.com/fonts/chillax)
+* [Background Image] (https://unsplash.com/photos/8NYDK56hQhM) by Milica Spasojevic
